@@ -1,2 +1,4 @@
 # quantum-hypothesis-testing
-Quantum Hypothesis Testing for a qubit
+Quantum hypothesis testing for a qubit
+
+
